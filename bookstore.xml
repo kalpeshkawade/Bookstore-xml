@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bookstore.xsl" type="text/xsl"?>
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="bookstore.xsd">
+<detail>
+  <title>Database System Concepts</title>
+  <author>Abraham Silberschatz</author>
+  <price>650</price>
+  <genre>Database</genre>
+</detail>
+<detail>
+  <title>Operating System Concepts</title>
+  <author>Abraham Silberschatz</author>
+  <price>700</price>
+  <genre>Operating Systems</genre>
+</detail>
+<detail>
+  <title>Computer Networks</title>
+  <author>Andrew S. Tanenbaum</author>
+  <price>600</price>
+  <genre>Networking</genre>
+</detail>
+<detail>
+  <title>Design Patterns: Elements of Reusable Object-Oriented Software</title>
+  <author>Erich Gamma</author>
+  <price>550</price>
+  <genre>Software Engineering </genre>
+</detail>
+<detail>
+  <title>Artificial Intelligence: A Modern Approach</title>
+  <author>Stuart Russell</author>
+  <price>800</price>
+  <genre>Artificial Intelligence</genre>
+</detail>
+<detail>
+  <title>Data Structures and Algorithm Analysis in Java</title>
+  <author>Mark Allen Weiss</author>
+  <price>500</price>
+  <genre>Data Structures</genre>
+</detail>
+<detail>
+  <title>Software Engineering</title>
+  <author>Ian Sommerville</author>
+  <price>620</price>
+  <genre>Software Engineering</genre>
+</detail>
+<detail>
+  <title>Discrete Mathematics and Its Applications</title>
+  <author>Kenneth H. Rosen</author>
+  <price>580</price>
+  <genre>Mathematics</genre>
+</detail>
+</bookstore>
